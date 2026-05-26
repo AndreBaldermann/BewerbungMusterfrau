@@ -173,7 +173,7 @@ export default function App() {
   <Screen key="start">
     <Card className="shadow-sm">
       <CardHeader>
-        <CardTitle>Willkommen, Frau Dr. Junge! 👋</CardTitle>
+        <CardTitle>Willkommen, Frau Dr. Schmidt! 👋</CardTitle>
       </CardHeader>
       <CardContent className="space-y-6">
         <p className="text-slate-700">
@@ -191,7 +191,7 @@ export default function App() {
           />
 <p className="mt-4 text-lg font-semibold text-slate-800 text-center">
   Tanja Musterfrau <br />
-  Tel.: 0178 514 608 95 <br />
+  Tel.: 0123 456789 <br />
   Email: mail@musterfrau-qm.de
 </p>
 
