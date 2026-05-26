@@ -64,6 +64,26 @@ const QUIZ = [
     ],
     explain: "Ich nutze KI für Prototypen und Lernunterstützung.",
   },
+  {
+    q: "Welche Arbeitsweise bringe ich in Projekte ein?",
+    options: [
+      { label: "Ad-hoc ohne Struktur", correct: false },
+      { label: "Strukturiert, kollaborativ und iterativ", correct: true },
+      { label: "Rein operativ ohne Strategie", correct: false },
+    ],
+    explain:
+      "Ich verbinde klare Prozessstruktur mit Teamarbeit und kontinuierlicher Verbesserung.",
+  },
+  {
+    q: "Worin liegt mein Mehrwert für Ihr Team?",
+    options: [
+      { label: "Nur Fachwissen ohne Umsetzung", correct: false },
+      { label: "Brücke zwischen Didaktik, QM und Digitalisierung", correct: true },
+      { label: "Ausschließlich Verwaltung", correct: false },
+    ],
+    explain:
+      "Ich kombiniere konzeptionelle Stärke mit Umsetzungskompetenz an Schnittstellen.",
+  },
 ];
 
 const SKILLS = [
