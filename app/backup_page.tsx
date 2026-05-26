@@ -165,7 +165,7 @@ export default function App() {
                 {/* Bewerberfoto */}
                 <div className="flex justify-center">
                   <img
-                    src="/bewerberfoto.jpg"
+                    src="/bewerberfoto.png"
                     alt="Bewerberfoto"
                     className="rounded-2xl shadow-md w-40 h-40 object-cover"
                   />
@@ -210,7 +210,7 @@ export default function App() {
                 {/* Bewerberfoto */}
                 <div className="flex justify-center">
                   <img
-                    src="/bewerberfoto.jpg"
+                    src="/bewerberfoto.png"
                     alt="Bewerberfoto"
                     className="rounded-2xl shadow-md w-32 h-32 object-cover mb-4"
                   />
@@ -512,7 +512,7 @@ export default function App() {
                     <Download className="mr-2 w-4 h-4" /> Profil-Notizen
                     exportieren (JSON)
                   </Button>
-                  <a href="mailto:mail@bartholdy-qm.de" className="inline-flex">
+                  <a href="mailto:mail@musterfrau-qm.de" className="inline-flex">
                     <Button variant="secondary" className="rounded-2xl">
                       <Mail className="mr-2 w-4 h-4" /> Kontakt aufnehmen
                     </Button>
